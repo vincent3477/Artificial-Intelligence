@@ -1,1 +1,2 @@
 # Artificial-Intelligence
+This PacMan-themed repository contains a variety of different search algorithms a machine uses to a goal state. The search algorithms include A Star Search, Constraint Satisfaction Problems, Alpha-Beta Max, and many more optimal algorithms while getting the agent to the goal. I contributed in a project to complete with other team's search agent to see which agent can get Pacman to the goal state the most quick. 
